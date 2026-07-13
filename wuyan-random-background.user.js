@@ -10,8 +10,8 @@
 
 (() => {
   const backgrounds = [
-    "https://raw.githubusercontent.com/xinyiheng/wuyan-background-assets/main/assets/wuyan-grapes.webp",
-    "https://raw.githubusercontent.com/xinyiheng/wuyan-background-assets/main/assets/wuyan-tea.webp",
+    "https://cdn.jsdelivr.net/gh/xinyiheng/wuyan-background-assets@main/assets/wuyan-grapes.webp",
+    "https://cdn.jsdelivr.net/gh/xinyiheng/wuyan-background-assets@main/assets/wuyan-tea.webp",
   ];
 
   const randomIndex = Math.floor(Math.random() * backgrounds.length);
