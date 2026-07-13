@@ -4,8 +4,8 @@ Public animated WebP assets used as Discord profile backgrounds.
 
 ## Permanent CDN URLs
 
-- Grapes: `https://cdn.jsdelivr.net/gh/xinyiheng/wuyan-background-assets@main/assets/wuyan-grapes.webp`
-- Tea: `https://cdn.jsdelivr.net/gh/xinyiheng/wuyan-background-assets@main/assets/wuyan-tea.webp`
+- Grapes: `https://cdn.jsdelivr.net/gh/xinyiheng/wuyan-background-assets@9cde8047570650c28ff33bb7249bcf7afb356e4e/assets/wuyan-grapes.webp`
+- Tea: `https://cdn.jsdelivr.net/gh/xinyiheng/wuyan-background-assets@9cde8047570650c28ff33bb7249bcf7afb356e4e/assets/wuyan-tea.webp`
 
 ## Random background
 
